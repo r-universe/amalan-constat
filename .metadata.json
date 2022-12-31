@@ -1,6 +1,9 @@
 [
   {
     "package": "fitODBOD",
-    "oncran": true
+    "oncran": false
+  },
+  {
+    "package": "SLPresElection"
   }
 ]
