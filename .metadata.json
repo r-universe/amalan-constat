@@ -4,6 +4,7 @@
     "oncran": true
   },
   {
-    "package": "SLPresElection"
+    "package": "SLPresElection",
+    "oncran": true
   }
 ]
