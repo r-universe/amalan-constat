@@ -6,5 +6,8 @@
   {
     "package": "SLPresElection",
     "oncran": true
+  },
+  {
+    "package": "OlympicRshiny"
   }
 ]

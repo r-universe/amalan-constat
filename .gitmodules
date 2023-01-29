@@ -13,3 +13,8 @@
 	url = https://github.com/Amalan-ConStat/SLPresElection
 	shallow = true
 	registered = true
+[submodule "OlympicRshiny"]
+	path = OlympicRshiny
+	url = https://github.com/Amalan-ConStat/OlympicRshiny
+	shallow = true
+	registered = true
