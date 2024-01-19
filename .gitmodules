@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/amalan-constat/universe
-	shallow = true
 	branch = HEAD
-[submodule "fitODBOD"]
-	path = fitODBOD
-	url = https://github.com/Amalan-ConStat/fitODBOD
-	shallow = true
-	registered = true
-[submodule "SLPresElection"]
-	path = SLPresElection
-	url = https://github.com/Amalan-ConStat/SLPresElection
-	shallow = true
-	registered = true
 [submodule "OlympicRshiny"]
 	path = OlympicRshiny
 	url = https://github.com/Amalan-ConStat/OlympicRshiny
-	shallow = true
-	registered = true
+[submodule "SLPresElection"]
+	path = SLPresElection
+	url = https://github.com/Amalan-ConStat/SLPresElection
+[submodule "fitODBOD"]
+	path = fitODBOD
+	url = https://github.com/Amalan-ConStat/fitODBOD
