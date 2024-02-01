@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/amalan-constat/universe
+	url = https://github.com/amalan-constat/amalan-constat.r-universe.dev
 	branch = HEAD
 [submodule "OlympicRshiny"]
 	path = OlympicRshiny
