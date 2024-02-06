@@ -11,3 +11,6 @@
 [submodule "fitODBOD"]
 	path = fitODBOD
 	url = https://github.com/Amalan-ConStat/fitODBOD
+[submodule "fitODBODRshiny"]
+	path = fitODBODRshiny
+	url = https://github.com/Amalan-ConStat/fitODBODRshiny
