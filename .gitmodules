@@ -8,6 +8,9 @@
 [submodule "SLPresElection"]
 	path = SLPresElection
 	url = https://github.com/Amalan-ConStat/SLPresElection
+[submodule "SouthParkRshiny"]
+	path = SouthParkRshiny
+	url = https://github.com/Amalan-ConStat/SouthParkRshiny
 [submodule "fitODBOD"]
 	path = fitODBOD
 	url = https://github.com/Amalan-ConStat/fitODBOD
