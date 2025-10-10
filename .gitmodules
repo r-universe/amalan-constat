@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/amalan-constat/amalan-constat.r-universe.dev
 	branch = HEAD
+[submodule "NeEDS4BigData"]
+	path = NeEDS4BigData
+	url = https://github.com/Amalan-ConStat/NeEDS4BigData
 [submodule "OlympicRshiny"]
 	path = OlympicRshiny
 	url = https://github.com/Amalan-ConStat/OlympicRshiny
