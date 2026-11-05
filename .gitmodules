@@ -11,6 +11,9 @@
 [submodule "SLPresElection"]
 	path = SLPresElection
 	url = https://github.com/Amalan-ConStat/SLPresElection
+[submodule "SLspatial"]
+	path = SLspatial
+	url = https://github.com/Amalan-ConStat/SLspatial
 [submodule "SouthParkRshiny"]
 	path = SouthParkRshiny
 	url = https://github.com/Amalan-ConStat/SouthParkRshiny
